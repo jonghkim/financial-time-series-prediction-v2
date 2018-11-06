@@ -16,11 +16,11 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series using 
 - Learn how to implement your own neural network models with cryptocurrency data which includes bid/ask volumes, minute level prices and trading volumes 
 
 ## Modules
-- This session is desinged with four modules:
+- This session is desinged with four modules
     - [Module 1. Deep Learning Revisiting](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module1)
     - [Module 2. RNN Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module2)
-    - [Module 3. CNN Encoder  + RNN Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module3)
-    - [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module4)
+    - [Module 3. CNN Encoder + RNN Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module3)
+    - [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module4)
 
 ## Datasets
 - This session use three datasets:
@@ -33,4 +33,4 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series using 
 - [Module 1. Deep Learning Revisiting](Q&A/Module1.md)
 - [Module 2. RNN Model for Price Prediction](Q&A/Module2.md)
 - [Module 3. CNN Encoder  + RNN Model for Price Prediction](Q&A/Module3.md)
-- [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model](Q&A/Module4.md)
+- [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction](Q&A/Module4.md)

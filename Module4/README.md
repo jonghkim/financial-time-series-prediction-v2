@@ -1,4 +1,4 @@
-# Module4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model
+# Module4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction
 
 *Will be released after Module3*
 
@@ -22,7 +22,7 @@
 - M4.7 Slack Discussion
 
 ## Q&A
-- [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model](../Q&A/Module4.md)
+- [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction](../Q&A/Module4.md)
 
 ## What's next?
 The beauty of this model is the once the construction is understood, the individual models can be swapped out for the best model there is. So over time the actual models used here will be different but the core framework will still be the same.

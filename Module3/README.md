@@ -1,4 +1,4 @@
-# Module3. CNN Encoder  + RNN Model for Price Prediction
+# Module3. CNN Encoder + RNN Model for Price Prediction
 
 *Will be released after Module2*
 
@@ -29,7 +29,7 @@
 - M3.7 Slack Discussion
 
 ## Q&A
-- [Module 3. CNN Encoder  + RNN Model for Price Prediction](../Q&A/Module3.md)
+- [Module 3. CNN Encoder + RNN Model for Price Prediction](../Q&A/Module3.md)
 
 ## Supplementary Materials
 - [Video] [Interpretable Forecasting of Financial Time Series](https://youtu.be/gX8gyri8E28?t=107) (104min)
