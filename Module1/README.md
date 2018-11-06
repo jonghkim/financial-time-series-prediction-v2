@@ -6,15 +6,15 @@
 
 ## Modules
 - M1.1 Introduction
-    - [PPT] [Introduction to the Course](https://drive.google.com/open?id=1D2C9v6RNqWwIQVmmQrEOCAhKF_Vlf0eW)
+    - [PPT] [Introduction to the Course](https://drive.google.com/open?id=1v-AKqfhyCDjrqJSGJ2X_F4ZsX_SvW9b7)
     - [Video] [Stock Price Prediction | AI in Finance](https://www.youtube.com/watch?v=7vunJlqLZok) (24 min)
 
 - M1.2 Machine Learning for Financial Time Series Prediction
-    - [PPT] [Machine Learning for Financial Time Series Prediction](https://drive.google.com/open?id=1KrHu6GDP8hP5wvhfjx0d5AHN_Bun05l-)
+    - [PPT] [Machine Learning for Financial Time Series Prediction](https://drive.google.com/open?id=1H5GdnFLj7_nPKb9OynWUCL83uugxXFv8)
 
 - M1.3 Introduction to Deep Learning with Google Colab (*Will Be Updated at Nov*)
     - [Video] [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) (20min)
-    - [Hands-on-Labs] [How to Use Free GPU on Google Colaboratory](https://drive.google.com/open?id=1HFtgXXU5n7P0J7pUkM-oqgx_2RSFBtSf) [[Code]()]
+    - [Hands-on-Labs] [How to Use Free GPU on Google Colaboratory](https://drive.google.com/open?id=1dCVOi-iDdC8-xox9-EAHRsyH1WyxOLFI) [[Code]()]
     - [Hands-on-Labs] [Deep_Learning_in_Keras_101]() [[Code](https://colab.research.google.com/drive/1U81gAePnC0oX9iq13dCzl-KOcJC3TcP5)]
 
 - M1.4 Convolutional Neural Networks

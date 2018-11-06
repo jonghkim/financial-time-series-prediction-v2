@@ -24,7 +24,6 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series using 
 
 ## Datasets
 - This session use three datasets:
-    - Dogs vs Cats dataset from Microsoft [[Download](https://drive.google.com/open?id=1Dje13qjGZwtaVhhjp-ZJVzeyzJrG6oc1)] (For simplicity, we only use 300 images for each animal)
     - Public dataset: Prices of multiple crypotocurrecies from pythonprogramming.net [[Download](https://drive.google.com/open?id=1thjGhgnAm5k1zuSiWhGmlUJzBXM3IECi)]
     - Self Crawled dataset: Prices and orderbook data of multiple crypotocurrecies from CoinOne [[Downloadable on Request](mailto:quantic.jh@gmail.com?subject=[GitHub]%20CoinOne%20Data%20Requests)] 
 
