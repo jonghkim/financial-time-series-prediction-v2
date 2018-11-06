@@ -1,6 +1,6 @@
 # [STUDYPIE] Predicting Financial Time Series using Deep Learning
 
-*Work-in-Progress (Will begin at Oct 22. 2018)*
+*Work-in-Progress (Will begin at Nov 19. 2018)*
 
 This is a repository for the [[STUDYPIE] Predicting Financial Time Series using Deep Learning](https://studypie.co/course/machine-learning/price_predict/)
 
