@@ -1,7 +1,7 @@
 # Module1. Deep Learning Revisiting
 ## Goal
 - Understand the problems with financial time series predictions and advantages/disadvantages of machine learning
-- Learn how to implement FNN, CNN, RNN models using Tensorflow Keras API on Google Colab 
+- Learn how to implement FNN, CNN model using Tensorflow Keras API on Google Colab 
 - Learn how to use [Google Colaboratory](https://colab.research.google.com/)
 
 ## Modules

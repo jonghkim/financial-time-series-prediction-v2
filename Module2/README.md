@@ -3,7 +3,7 @@
 *Will be released after Module1*
 
 ## Goal
-- Learn how to implement RNN models using Tensorflow Keras API on Google Colab 
+- Learn how to implement RNN model using Tensorflow Keras API on Google Colab 
 
 ## Modules
 - M2.1 Tensorboard on Google Colab
