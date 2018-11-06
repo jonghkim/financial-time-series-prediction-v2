@@ -10,7 +10,7 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series using 
 - This session is an intermediate level course for those who have basic knowledge (Python, Numpy, Pandas, pip) of Python and machine learning
 
 ## Goal of this study
-- Implement three diffrent neural network models with cryptocurrency data from the simple model to advanced models
+- Implement three neural network models from the simple model to advanced models with cryptocurrency data
 - Understand the problems with financial time series predictions and advantages/disadvantages of machine learning 
 - Learn how to implement FNN, CNN, RNN models using Tensorflow Keras API on [Google Colaboratory](https://colab.research.google.com/) 
 - Learn which metrics could be important for robustness of time series prediction algorithms 
