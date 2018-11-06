@@ -14,7 +14,7 @@
 
 - M1.3 Introduction to Deep Learning with Google Colab (*Will Be Updated at Nov*)
     - [Video] [Introduction to Deep Learning](https://pythonprogramming.net/introduction-deep-learning-python-tensorflow-keras/) (20min) [[Code](https://colab.research.google.com/drive/10giEfY59g-yr8dZFEQB8OpB_0KodGYbw)]
-    - [Hands-on-Labs] [Review on Deep Learning](https://drive.google.com/open?id=1lCqMBE55BToS3Yc81kxsDDqgBcceeG2q) 
+    - [PPT] [Review on Deep Learning](https://drive.google.com/open?id=1lCqMBE55BToS3Yc81kxsDDqgBcceeG2q) 
 
 - M1.4 Convolutional Neural Networks
     - [Video] [Loading in Your Own Data](https://pythonprogramming.net/loading-custom-data-deep-learning-python-tensorflow-keras/) (18min)
