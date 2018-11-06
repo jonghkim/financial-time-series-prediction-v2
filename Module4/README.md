@@ -6,18 +6,22 @@
 - Learn how to implement Wavelet Denoising + Auto Encoder Model + RNN Prediction models using Tensorflow Keras API on Google Colab 
 
 ## Modules
-- M4.1 Wavelet Stacked Autoencoder LSTM.pdf
-    - [Reading]
+- M4.1 Wavelet Stacked Autoencoder LSTM
+    - [Reading] [Wavelet Stacked Autoencoder LSTM]()
     
 - M4.2 Wavelet Transform to Denoise the Data
     - [Hands-on-Labs] [Wavelet Transform for Denoising]() [[Code]()]
     - [Assignment] Wavelet Transform to Denoise the Data [[Problem]()] [[Solution]()]
+
 - M4.3 Stacked Autoencoders to Extract Features from Data 
     - [Hands-on-Labs] [Autoencoders for Feature Extraction]() [[Code]()]
     - [Assignment] Stacked Autoencoders to Extract Features from Data [[Problem]()] [[Solution]()]
+
 - M4.4 Final Neural Network Model
     - [Assignment] Final Neural Network Model [[Problem]()] [[Solution]()]
+
 - M4.5 Summarizing
+
 - M4.6 Assignment
 - M4.7 Slack Discussion
 
