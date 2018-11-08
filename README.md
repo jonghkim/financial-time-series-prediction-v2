@@ -33,3 +33,15 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series using 
 - [Module 2. RNN Model for Price Prediction](Q&A/Module2.md)
 - [Module 3. CNN Encoder  + RNN Model for Price Prediction](Q&A/Module3.md)
 - [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction](Q&A/Module4.md)
+
+## For Citation
+```
+@misc{jonghkim,
+  author = {Jongho Kim},
+  title = {financial-time-series-prediction-v2},
+  year = {2018},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/jonghkim/financial-time-series-prediction-v2}},
+}
+```
