@@ -17,10 +17,10 @@ This is a repository for the [[STUDYPIE] Predicting Financial Time Series using 
 
 ## Modules
 - This session is desinged with four modules
-    - [Module 1. Deep Learning Revisiting](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module1)
-    - [Module 2. RNN Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module2)
-    - [Module 3. CNN Encoder + RNN Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module3)
-    - [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction](https://github.com/jonghkim/financial-time-series-prediction/tree/master/Module4)
+    - [Module 1. Deep Learning Revisiting](Module1/)
+    - [Module 2. RNN Model for Price Prediction](Module2/)
+    - [Module 3. CNN Encoder + RNN Model for Price Prediction](Module3/)
+    - [Module 4. Wavelet Denoising + Auto Encoder Model + RNN Prediction Model for Price Prediction](Module4/)
 
 ## Datasets
 - This session use three datasets:
