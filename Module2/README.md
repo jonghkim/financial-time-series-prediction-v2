@@ -31,7 +31,7 @@
     - [Hands-on-Labs] Simple RNN Model for Crypto Currency Prediction [[Code](https://colab.research.google.com/drive/1KgR2gwid4eOLWx1aVUpBbcWxEgjPhShf)]
     - [Assignment] Develop Your Own Neural Network Model for Various Outcome [[Problem](https://colab.research.google.com/drive/1wTrq5IAU_eSuhBXPBt0rxaJLwDO5qvua)] [[Solution](https://colab.research.google.com/drive/1eE5BUKtBiGq3Hp4HuOxxBlhOSfmcwhOl)]
 
-- M2.6 [Assignment](https://goo.gl/forms/TBqVWCtxBB5GUrRE3)
+- M2.6 [Assignment]()
 
 - M2.7 Slack Discussion
 
